@@ -8,5 +8,5 @@ This is easy as in ***your granny can use it*** kind of easy.
 
 No extra buttons. No extra options. No confusing user interface.
 
-It's simply the **EASIEST** Google Analytic Tracking Code plugin that's been ever created.
+It's simply the EASIEST Google Analytic Tracking Code plugin that's been ever created.
 
